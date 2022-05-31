@@ -4,4 +4,4 @@ A quick reference of sample drift detection methods from Kolmogorov-Smirnov test
 
 <br>
 
-*2021*
+*2022*
